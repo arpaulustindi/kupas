@@ -4,7 +4,7 @@
 
 ## A. Cara Install Source Code
 
-##1. Download Repository pada link https://github.com/arpaulustindi/kupas/archive/refs/heads/master.zip
+1. Download Repository pada link https://github.com/arpaulustindi/kupas/archive/refs/heads/master.zip
 2. Hasil Download akan menjadi kupas-master.zip
 3. Ekstrak hasil download ini menjadi folder (biasanya akan menjadi kupas-master atau kupas) tergantung zip arcive yang digunakan
 4. Pindahkan folder tersebut ke lokasi project
