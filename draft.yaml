@@ -1,0 +1,20 @@
+models:
+  Kunjungan:
+    tiket: string unique
+    nik: string
+    nama_pengunjung: string
+    narapidana: string
+    barang_bawaan: text
+    hubungan: string
+    jumlah_pengunjung: integer
+    tanggal_kunjungan: date
+    sesi_kunjungan: integer
+    waktu_status: time
+    diperiksa: boolean default:false
+    status_periksa: integer
+    antrian: integer
+    waktu_antrian: time
+  # ...
+
+controllers:
+  # ...
